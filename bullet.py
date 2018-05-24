@@ -3,6 +3,7 @@
 import pygame
 from pygame.sprite import Sprite
 
+
 class Bullte(Sprite):
     """对飞船发射的子弹进行管理的类"""
 
